@@ -1,0 +1,25 @@
+.categories .bgimg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 450px;
+    height: 450px;
+    position: relative;
+  }
+ 
+  .categories .col-md-6{
+    position: relative;
+  }
+
+  .categories .navigatecat{
+    position: absolute;
+      top:2vw;
+      left: 1vw;
+  }
+
+  .btncat{
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+  
+    font-size: 2vw;
+  }

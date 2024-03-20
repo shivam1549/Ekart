@@ -1,0 +1,45 @@
+.banner h2{
+    color: #24262b;
+    font-size: 5rem;
+    line-height: 1.1;
+    margin-bottom: 0.5rem !important;
+}
+.banner p{
+    color: #5E626F;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.banner{
+    padding: 0 3vw;
+}
+
+.slider-container {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+  }
+  
+  .custom-arrow {
+    position: absolute;
+    bottom: 0;
+    cursor: pointer;
+    background-color: #000; /* Customize background color */
+    color: #fff; /* Customize text color */
+    padding: 10px;
+    z-index: 100;
+    font-size: 16px;
+  }
+  
+  .custom-arrow.next {
+    right: 42%;
+    transform: translateX(-42%);
+  }
+  
+  .custom-arrow.prev {
+    left: 42%;
+    transform: translateX(42%);
+  }

@@ -1,0 +1,41 @@
+.product-trend{
+  border: 1px solid #cbcbcb;  
+  position: relative;
+  border-radius: 10px;
+}
+.product-trend .product-img{
+  
+    bottom: 0;
+    left: 0;
+    display: flex;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    align-items: center;
+    justify-content: center;
+}
+.product-trend .product-img img{
+  max-height: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.imgcober{
+  padding-bottom:100%;
+  max-height: 370px;
+  position: relative;
+}
+
+.product-trend .text-names{
+  margin-top: 12px;
+  padding: 20px 8px;
+  border-top: 1px solid #cbcbcb;
+}
+
+.prices{
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
