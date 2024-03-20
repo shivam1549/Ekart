@@ -1,0 +1,36 @@
+.pb-100{
+    padding-bottom: 5vw;
+}
+
+.pt-100{
+    padding-top: 5vw;
+}
+
+.bg-gray{
+    background-color: #f3f3f3;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.featies i{
+    color:#0D775E;
+    font-size: 4rem;
+}
+
+
+.messagesubs .container {
+    color: #fff;
+    background-color: #333;
+    padding: 40px 25px;
+}
+
+.clienttestimonials{
+    background-image: linear-gradient(45deg, #ebebeb78, #ebebeb78),url(https://mooncart.dexignzone.com/xhtml/images/background/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}
+
+.footershop a{
+    color: #fff;
+}

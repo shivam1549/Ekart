@@ -1,0 +1,50 @@
+ .messages i{
+    font-size: 4rem;
+ }
+
+ .messagess #basic-addon2{
+    background-color: #fff;
+ }
+
+ .messagess .ti-arrow-right{
+    color:green;
+    font-weight: 600;
+ }
+ .sliderclients{
+    position: relative;
+ }
+
+ .custom-arrow-client{
+    position: absolute;
+    bottom: 0;
+    z-index: 100;
+    background: #fff;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+ }
+
+ .custom-arrow-client.next{
+    right:0;
+ }
+
+ .custom-arrow-client.prev{
+    right:40px;
+ }
+
+ .titlename{
+    display: inline;
+    font-size: 1.2rem;
+    font-weight: 500;
+ }
+
+ .inner-slides p{
+    color: #000;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.4rem;
+ }
